@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;}
+
+    .hero {
+      height: 100vh; /* Full viewport height */
+      background-color: #74ff02f6; /* Change this to your desired color or background-image */
+      background-size: cover;
+      background-position: center;
+    }
+
+
+.hero h1 {
+    text-shadow: 2px 2px 4px #000;
+}
+
+.card img {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-title, .btn-warning {
+    color: #333;
+}
+
+footer {
+    background: #222;
+    color: #bbb;
+}
